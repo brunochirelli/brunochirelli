@@ -3,7 +3,7 @@
 [![Bruno Chirelli CodeWars](https://www.codewars.com/users/brunochirelli/badges/small)](https://www.codewars.com/users/brunochirelli)
 
 Hi, my name is Bruno Chirelli and I am from Piracicaba, a town in São Paulo, Brazil.
-I am a React front-end developer with a degree in advertising and a Google Ads Certified professional.
+I am a React front-end developer with experience in communication and business.
 
 ## :books: Skills
 
@@ -11,8 +11,13 @@ I am a React front-end developer with a degree in advertising and a Google Ads C
 - CSS
 - JavaScript
 - React
-- Gatsby.js
+- Typescript
+- Jest / RTL
+- Cypress
 - Git and GitHub
+- Node
+- SQL
+- GraphQL
 - Advertising
 - Design
 - Communication
