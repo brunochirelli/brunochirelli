@@ -16,7 +16,6 @@ I am a React front-end developer with experience in communication and business.
 - Cypress
 - Git and GitHub
 - Node
-- SQL
 - GraphQL
 - Advertising
 - Design
