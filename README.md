@@ -12,6 +12,7 @@ I am a React front-end developer with experience in communication and business.
 - JavaScript
 - React
 - Typescript
+- Nextjs
 - Jest / RTL
 - Cypress
 - Git and GitHub
